@@ -9,8 +9,6 @@ import androidx.appcompat.app.AppCompatActivity;
 
 public class MainActivity extends AppCompatActivity {
 
-    int count = 0;
-
     TextView textView;
 
     @Override
@@ -30,7 +28,7 @@ public class MainActivity extends AppCompatActivity {
     public void onCountClick(View view) {
 
         //count++ 하면서 textview에 보이
-        count++;
+        int count = Integer.parseInt(textView.getText().toString());
         textView.setText(count + "");
     }
 }

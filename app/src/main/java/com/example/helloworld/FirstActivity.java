@@ -48,7 +48,7 @@ public class FirstActivity extends AppCompatActivity {
                 callSecondActivityWithMsg3();
             }
         });
-
+        tv1=findViewById(R.id.tvMsg);
     }
 
     private void callSecondActivityWithMsg3() {
@@ -75,6 +75,7 @@ public class FirstActivity extends AppCompatActivity {
             if(resultCode == RESULT_OK){
                 String msg = data.getStringExtra("msg");
                 Toast.makeText(this, msg, Toast.LENGTH_SHORT).show();
+                tv1.setText(msg);
             }
         }
     }

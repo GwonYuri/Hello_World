@@ -20,7 +20,7 @@
         android:layout_height="wrap_content"
         android:ems="10"
         android:inputType="textPersonName"
-        android:text="전송할 메세지 입력" />
+        android:text="" />
 
     <Button
         android:id="@+id/btnMsg"
@@ -28,4 +28,28 @@
         android:layout_height="wrap_content"
         android:text="2.메세지 전송" />
 
+
+    <EditText
+        android:id="@+id/etMsg3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:inputType="textPersonName"
+        android:text="" />
+
+    <Button
+        android:id="@+id/btnMsg3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="3.양방향데이터 교환" />
+
+    <TextView
+        android:id="@+id/tvMsg"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="수정된 데이터" /><![CDATA[
+
+    width="300" height="400">
+
+]]>
 </LinearLayout>

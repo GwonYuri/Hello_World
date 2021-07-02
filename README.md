@@ -11,7 +11,7 @@
 
 -양방향 데이터 교환
 
-<img src = "https://user-images.githubusercontent.com/70666097/124207455-87e06a80-db20-11eb-97a0-129921f57951.png)" width="300" height="400"> 
+<img src = "https://user-images.githubusercontent.com/70666097/124207455-87e06a80-db20-11eb-97a0-129921f57951.png" width="300" height="400"> 
 
 <img src = "https://user-images.githubusercontent.com/70666097/124207457-89119780-db20-11eb-9a04-2bd7fb6b4415.png" width="300" height="400">
 <img src = "https://user-images.githubusercontent.com/70666097/124207461-89aa2e00-db20-11eb-9036-2ebfd6752844.png" width="300" height="400">

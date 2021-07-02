@@ -1,5 +1,8 @@
 # Hello_World
 
+## Counting 앱
+<img src = "https://user-images.githubusercontent.com/70666097/124207827-4c926b80-db21-11eb-984e-de48983fb7bc.png" width="300" height="400">
+
 ## 카페 음료 주문 앱
 - 아메리카노, 카페라떼, 카페모카 주문 개수에 따른 주문 개수, 할인금액, 결제금액 보여주기
 

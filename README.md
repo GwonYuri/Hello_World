@@ -1,6 +1,6 @@
 # Hello_World
 
-## Counting 앱
+## Lab1 Hello Toast (Counting 앱)
 <img src = "https://user-images.githubusercontent.com/70666097/124207827-4c926b80-db21-11eb-984e-de48983fb7bc.png" width="300" height="400">
 
 ## Lab2 음료 주문 앱

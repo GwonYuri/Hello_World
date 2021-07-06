@@ -3,7 +3,7 @@
 ## Lab1 Hello Toast (Counting 앱)
 - 상단의 TOAST 클릭시 "Hello Toast" 화면에 출력, 하단의 COUNT 클릭시 화면의 숫자 1씩 증가하여 화면에 보여줌
 
-<img src = "https://user-images.githubusercontent.com/70666097/124207827-4c926b80-db21-11eb-984e-de48983fb7bc.png" width="300" height="400"> <img src = "https://user-images.githubusercontent.com/70666097/124634521-6802cb00-dec1-11eb-8aa3-2e6156498806.png" width="300" height="400"> <img src = "https://user-images.githubusercontent.com/70666097/124634526-6933f800-dec1-11eb-86e2-5154f6a6eeb0.png" width="300" height="400">
+<img src = "https://user-images.githubusercontent.com/70666097/124207827-4c926b80-db21-11eb-984e-de48983fb7bc.png" width="250" height="350"> <img src = "https://user-images.githubusercontent.com/70666097/124634521-6802cb00-dec1-11eb-8aa3-2e6156498806.png" width="300" height="400"> <img src = "https://user-images.githubusercontent.com/70666097/124634526-6933f800-dec1-11eb-86e2-5154f6a6eeb0.png" width="300" height="400">
 
 ## Lab2 음료 주문 앱
 - 아메리카노, 카페라떼, 카페모카 주문 개수에 따른 주문 개수, 할인금액, 결제금액 보여주기

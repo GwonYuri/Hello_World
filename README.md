@@ -19,5 +19,5 @@
 <img src = "https://user-images.githubusercontent.com/70666097/124207455-87e06a80-db20-11eb-97a0-129921f57951.png" width="300" height="400"> <img src = "https://user-images.githubusercontent.com/70666097/124207461-89aa2e00-db20-11eb-9036-2ebfd6752844.png" width="300" height="400">
 
 3. 양방향 데이터 교환(두 액티비티 간 이동, 양방향 메세지 전송 가능)
-4. 
+
 <img src = "https://user-images.githubusercontent.com/70666097/124207466-8adb5b00-db20-11eb-97b5-877d9cbda487.png" width="300" height="400"> <img src = "https://user-images.githubusercontent.com/70666097/124207468-8c0c8800-db20-11eb-8a94-545c5f962859.png" width="300" height="400"> <img src = "https://user-images.githubusercontent.com/70666097/124207471-8ca51e80-db20-11eb-9429-f1054b44f2ab.png" width="300" height="400">

@@ -1,6 +1,6 @@
 # Hello_World
 
-## LAb0 Hello World
+## Lab0 Hello World
 
 <img src = "https://user-images.githubusercontent.com/70666097/124947192-965fe200-e04a-11eb-918f-13f31e4aa01e.png" width="250" height="350">
 

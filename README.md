@@ -1,5 +1,9 @@
 # Hello_World
 
+## LAb0 Hello World
+
+<img src = "https://user-images.githubusercontent.com/70666097/124947192-965fe200-e04a-11eb-918f-13f31e4aa01e.png" width="250" height="350">
+
 ## Lab1 Hello Toast (Counting 앱)
 - 상단의 TOAST 클릭시 "Hello Toast" 화면에 출력, 하단의 COUNT 클릭시 화면의 숫자 1씩 증가하여 화면에 보여줌
 
